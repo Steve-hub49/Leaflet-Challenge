@@ -18,6 +18,7 @@ function createFeatures(earthquakeData) {
     function onEachFeature(feature, layer) {
         layer.bindPopup("<h3 align='center'>" + feature.properties.place +
             "</h3><hr><p><u>Occurrence:</u> " + new Date(feature.properties.time) + "</p>" +
+            "</h3><p><u>Depth:</u> " + feature.geometry.coordinates[2] + "</p>" +
             "</h3><p><u>Magnitude:</u> " + feature.properties.mag + "</p>");
     }
 
