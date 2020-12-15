@@ -2,8 +2,7 @@
 
 ## Leaflet Homework - Visualizing Data with Leaflet
 
-Please note this project is deployed at:
-https://steve-hub49.github.io/leaflet-challenge/index.html
+### Please note this project is deployed at: https://steve-hub49.github.io/leaflet-challenge/index.html
 
 ### Background
 
