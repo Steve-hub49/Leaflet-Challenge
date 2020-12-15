@@ -4,6 +4,7 @@
 
 # API and config keys
 api_keys.py
+config.py
 config.js
 
 # Byte-compiled / optimized / DLL files
